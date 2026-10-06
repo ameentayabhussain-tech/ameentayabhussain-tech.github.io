@@ -165,3 +165,12 @@ xandr.com, 17779, RESELLER
 zetaglobal.net, 525, RESELLER
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
 zmaticoo.com, 5135195, RESELLER
+
+bid-matrix.com, f2c71a45ea149366, RESELLER
+video.unrulymedia.com, 947824792, RESELLER
+toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
+video.unrulymedia.com, 144138083, RESELLER
+video.unrulymedia.com, 201313863, RESELLER
+video.unrulymedia.com, 389957698, RESELLER
+video.unrulymedia.com, 657436911, RESELLER
+video.unrulymedia.com, 703273072, RESELLER
