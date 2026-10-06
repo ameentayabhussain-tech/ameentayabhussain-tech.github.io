@@ -5,7 +5,19 @@ unity.com, 142299080, DIRECT, 96cabb5fbdde37a7
 unityads.com, 142299080, DIRECT, 24192b0c3d4f5e6a
 
 # ====================================================================
-# PROGRAMMATIC PARTNERS & MEDIATION RESELLER INVENTORY
+# PROGRAMMATIC PARTNERS & NEW AD NETWORK ADDITIONS
+# ====================================================================
+bid-matrix.com, f2c71a45ea149366, RESELLER
+toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
+video.unrulymedia.com, 144138083, RESELLER
+video.unrulymedia.com, 201313863, RESELLER
+video.unrulymedia.com, 389957698, RESELLER
+video.unrulymedia.com, 657436911, RESELLER
+video.unrulymedia.com, 703273072, RESELLER
+video.unrulymedia.com, 947824792, RESELLER
+
+# ====================================================================
+# MEDIATION RESELLER INVENTORY
 # ====================================================================
 adwmg.com, 159512, RESELLER, c9688a22012618e7
 appads.in, 106246, RESELLER
@@ -150,12 +162,6 @@ triplelift.com, 14798, RESELLER, 6c33edb13117fd86
 undertone.com, 4108, RESELLER
 verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
 vidazoo.com, 6a3384a48eca8f6ddad62520, RESELLER, b6ada874b4d7d0b2
-://unrulymedia.com, 144138083, RESELLER
-://unrulymedia.com, 389957698, RESELLER
-://unrulymedia.com, 657436911, RESELLER
-://unrulymedia.com, 703273072, RESELLER
-://unrulymedia.com, 947824792, RESELLER
-://unrulymedia.com, 201313863, RESELLER
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
 vidoomy.com, 8953515, RESELLER
 voisetech.com, 1066, RESELLER
@@ -165,12 +171,3 @@ xandr.com, 17779, RESELLER
 zetaglobal.net, 525, RESELLER
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
 zmaticoo.com, 5135195, RESELLER
-
-bid-matrix.com, f2c71a45ea149366, RESELLER
-video.unrulymedia.com, 947824792, RESELLER
-toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
-video.unrulymedia.com, 144138083, RESELLER
-video.unrulymedia.com, 201313863, RESELLER
-video.unrulymedia.com, 389957698, RESELLER
-video.unrulymedia.com, 657436911, RESELLER
-video.unrulymedia.com, 703273072, RESELLER
