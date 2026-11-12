@@ -171,6 +171,9 @@ xandr.com, 17779, RESELLER
 zetaglobal.net, 525, RESELLER
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
 zmaticoo.com, 5135195, RESELLER
+start.io, 131192070, RESELLER
+playdigo.com, 1965, RESELLER
+monetrix.ai, 10761, RESELLER
 
 # ====================================================================
 
